@@ -58,7 +58,7 @@
             <div class="mt-20">
                 <p class="text-2xl pb-4">Lyssna på senaste avsnittet av  <strong class="font-bold artisans">Artisans Podden</strong>
                 </p>
-                <iframe src='https://share.transistor.fm/e/a06ccfce/dark' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+                <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0PT76RAZLuS5SBpaLKYIlS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
             <div class="my-16 text-center">
                 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
